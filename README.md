@@ -26,23 +26,29 @@
     </div>  
 </div>
 
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
     <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-        <a href="https://github.com/devxb/gitanimals" style="flex: 1 1 45%; margin-bottom: 20px;">
-            <img
-                src="https://render.gitanimals.org/farms/gkdudans"
-                width="50%"
-                height="auto"
-                style="border-radius: 8px;"
-            />
-        </a>
-        <a href="https://velog.io/@ansgkdud" style="flex: 1 1 45%; margin-bottom: 20px;">
-            <img 
-                src="https://velog-readme-stats.vercel.app/api/list?name=ansgkdud" 
-                style="width: 50%; height: auto; border-radius: 8px;"
-                alt="Velog's GitHub stats"
-            />
-        </a>
+        <figure style="flex: 1 1 45%; margin-bottom: 20px; text-align: center;">
+            <a href="https://github.com/devxb/gitanimals">
+                <img
+                    src="https://render.gitanimals.org/farms/gkdudans"
+                    width="100%"
+                    height="auto"
+                    style="border-radius: 8px;"
+                />
+            </a>
+            <figcaption>GitAnimals</figcaption>
+        </figure>
+        <figure style="flex: 1 1 45%; margin-bottom: 20px; text-align: center;">
+            <a href="https://velog.io/@ansgkdud">
+                <img 
+                    src="https://velog-readme-stats.vercel.app/api/list?name=ansgkdud" 
+                    style="width: 100%; height: auto; border-radius: 8px;"
+                    alt="Velog's GitHub stats"
+                />
+            </a>
+            <figcaption>Velog</figcaption>
+        </figure>
     </div>
 </div>
