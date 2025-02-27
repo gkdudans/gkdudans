@@ -1,5 +1,5 @@
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
     <div style="margin: ; text-align: left;"> 
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
@@ -12,7 +12,7 @@
 </div>
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
     <div style="text-align: left;"> 
         <a href="https://velog.io/@ansgkdud/posts"> 
             <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@ansgkdud/posts"> 
@@ -27,9 +27,9 @@
 </div>
 
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-    <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-        <a href="https://github.com/devxb/gitanimals" style="flex: 1 1 45%; margin-bottom: 20px;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
+    <figure class="half" style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+        <a href="https://github.com/devxb/gitanimals">
             <img
                 src="https://render.gitanimals.org/farms/gkdudans"
                 width="100%"
@@ -37,12 +37,12 @@
                 style="border-radius: 8px;"
             />
         </a>
-        <a href="https://velog.io/@ansgkdud" style="flex: 1 1 45%; margin-bottom: 20px;">
+        <a href="https://velog.io/@ansgkdud">
             <img 
                 src="https://velog-readme-stats.vercel.app/api/list?name=ansgkdud" 
                 style="width: 100%; height: auto; border-radius: 8px;"
                 alt="Velog's GitHub stats"
             />
         </a>
-    </div>
+    </figure>
 </div>
