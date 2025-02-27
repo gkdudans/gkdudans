@@ -33,22 +33,17 @@
             <a href="https://github.com/devxb/gitanimals">
                 <img
                     src="https://render.gitanimals.org/farms/gkdudans"
-                    width="100%"
-                    height="auto"
                     style="border-radius: 8px;"
                 />
             </a>
-            <figcaption>GitAnimals</figcaption>
         </figure>
         <figure style="flex: 1 1 45%; margin-bottom: 20px; text-align: center;">
             <a href="https://velog.io/@ansgkdud">
                 <img 
                     src="https://velog-readme-stats.vercel.app/api/list?name=ansgkdud" 
-                    style="width: 100%; height: auto; border-radius: 8px;"
                     alt="Velog's GitHub stats"
                 />
             </a>
-            <figcaption>Velog</figcaption>
         </figure>
     </div>
 </div>
