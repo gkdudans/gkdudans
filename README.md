@@ -28,22 +28,24 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-    <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-        <figure style="flex: 1 1 45%; margin-bottom: 20px; text-align: center;">
+    <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
+        <figure style="flex: 1 1 calc(50% - 20px); margin-bottom: 20px; text-align: center;">
             <a href="https://github.com/devxb/gitanimals">
                 <img
                     src="https://render.gitanimals.org/farms/gkdudans"
-                    style="border-radius: 8px;"
+                    style="width: 100%; height: auto; border-radius: 8px;"
                 />
             </a>
         </figure>
-        <figure style="flex: 1 1 45%; margin-bottom: 20px; text-align: center;">
+        <figure style="flex: 1 1 calc(50% - 20px); margin-bottom: 20px; text-align: center;">
             <a href="https://velog.io/@ansgkdud">
                 <img 
                     src="https://velog-readme-stats.vercel.app/api/list?name=ansgkdud" 
                     alt="Velog's GitHub stats"
+                    style="width: 100%; height: auto; border-radius: 8px;"
                 />
             </a>
         </figure>
     </div>
 </div>
+
