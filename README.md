@@ -14,4 +14,10 @@
   />
 </a>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ansgkdud)](https://github.com/gkdudans/velog-readme-stats)
+<a href="https://velog.io/@ansgkdud">
+  <img 
+    src="https://velog-readme-stats.vercel.app/api/list?name=ansgkdud" 
+    style="width:600px; height:auto;" 
+    alt="Velog's GitHub stats"
+  />
+</a>
