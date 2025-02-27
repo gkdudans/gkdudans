@@ -33,7 +33,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
     <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
         <figure style="flex: 1 1 calc(50% - 20px); margin-bottom: 20px; text-align: center;">
-            <a href="https://github.com/devxb/gitanimals">
+            <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gkdudans&utm_content=farm">
                 <img
                     src="https://render.gitanimals.org/farms/gkdudans"
                     style="width: 39%; height: auto; border-radius: 8px;"
