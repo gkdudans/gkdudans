@@ -37,7 +37,6 @@
                 style="border-radius: 8px;"
             />
         </a>
-
         <a href="https://velog.io/@ansgkdud" style="flex: 1 1 45%; margin-bottom: 20px;">
             <img 
                 src="https://velog-readme-stats.vercel.app/api/list?name=ansgkdud" 
