@@ -33,7 +33,7 @@
             <a href="https://github.com/devxb/gitanimals">
                 <img
                     src="https://render.gitanimals.org/farms/gkdudans"
-                    style="width: 45%; height: auto; border-radius: 8px;"
+                    style="width: 36%; height: auto; border-radius: 8px;"
                 />
             </a>
         </figure>
@@ -42,7 +42,7 @@
                 <img 
                     src="https://velog-readme-stats.vercel.app/api/list?name=ansgkdud" 
                     alt="Velog's GitHub stats"
-                    style="width: 45%; height: auto; border-radius: 8px;"
+                    style="width: 51%; height: auto; border-radius: 8px;"
                 />
             </a>
         </figure>
