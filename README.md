@@ -30,6 +30,11 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
+    <img 
+    src="https://github-readme-stats.vercel.app/api?username=gkdudans&show_icons=true&theme=dracula" 
+    alt="Hayoung's GitHub stats"
+    style="width: 90%; max-width: 480px; border-radius: 8px; display: block; margin: 0 auto;"
+    />
     <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
         <figure style="flex: 1 1 calc(50% - 20px); margin-bottom: 20px; text-align: center;">
             <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gkdudans&utm_content=farm">
