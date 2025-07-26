@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/gkdudans">
     <img 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gkdudans&theme=vue" 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gkdudans&theme=solarized" 
       alt="GitHub Summary Card"
     />
   </a>
