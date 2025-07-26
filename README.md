@@ -41,9 +41,7 @@
   </a>
 </div>
 
-<br>
-
-<b></b>
+<br><br><br>
 
 <div style="text-align: left;">
     <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
